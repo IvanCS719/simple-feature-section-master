@@ -15,3 +15,18 @@
     align-items: center;
     background-color: #121826;
 }
+
+.containerMain-title{
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #E5E7EB;
+    width: 400px;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+.containerMain-text{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #9DA3AE;
+}
