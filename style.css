@@ -81,3 +81,9 @@
     width: 100%;
     border-radius: 12px;
 }
+
+@media (max-width: 640px) {
+    .containerMain-title{
+        width: auto;
+    }
+}
