@@ -38,8 +38,7 @@
 - Table
 ![screenshot](https://github.com/IvanCS719/simple-feature-section-master/blob/main/design/Tablet_1024px.jpg?raw=true)
 
-- Mobile
-<br>
+- Mobile<br>
 ![screenshot](https://github.com/IvanCS719/simple-feature-section-master/blob/main/design/Mobile_412px.jpg?raw=true)
 
 ### Built with
