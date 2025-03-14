@@ -57,12 +57,23 @@
 .containerCards_card_header-icon{
     width: 54px;
     height: 54px;
-    background-color: antiquewhite;
     border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 1.25rem;
+}
+
+.containerCards_card_header-icon.hand{
+    background-color: #FCEED8;
+}
+
+.containerCards_card_header-icon.goalNet{
+    background-color: #DEE9FC;
+}
+
+.containerCards_card_header-icon.chat{
+    background-color: #FBE5E6;
 }
 
 .containerCards_card_header-title{
