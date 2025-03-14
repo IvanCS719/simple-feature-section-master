@@ -33,13 +33,16 @@
 ## Overview
 
 - Desktop
-![screenshot](https://github.com/IvanCS719/simple-feature-section-master/blob/main/design/Desktop_1350px.jpg?raw=true)
+
+<img src="https://github.com/IvanCS719/simple-feature-section-master/blob/main/design/Desktop_1350px.jpg?raw=true" width="500px" alt="screenshot">
 
 - Table
-![screenshot](https://github.com/IvanCS719/simple-feature-section-master/blob/main/design/Tablet_1024px.jpg?raw=true)
 
-- Mobile<br>
-![screenshot](https://github.com/IvanCS719/simple-feature-section-master/blob/main/design/Mobile_412px.jpg?raw=true)
+<img src="https://github.com/IvanCS719/simple-feature-section-master/blob/main/design/Tablet_1024px.jpg?raw=true" width="500px" alt="screenshot">
+
+- Mobile
+
+<img src="https://github.com/IvanCS719/simple-feature-section-master/blob/main/design/Mobile_412px.jpg?raw=true" width="500px" alt="screenshot">
 
 ### Built with
 
